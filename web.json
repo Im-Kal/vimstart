@@ -2,19 +2,19 @@
   "greeting_text": "おかえり！",
   "background": "#171928",
   "foreground": "#c7b7c7",
-  "search_engine": "https://www.google.co.id/search?q=",
+  "search_engine": "http://192.168.1.15:5000/search?q=",
   "favourites": [
     {
-      "key": ":fb",
-      "url": "http://facebook.com"
+      "key": ":pm",
+      "url": "http://mail.proton.me/"
     },
     {
-      "key": ":tt",
-      "url": "http://twitter.com"
+      "key": ":ww",
+      "url": "http://web.whatsapp.com"
     },
     {
-      "key": ":ig",
-      "url": "http://instagram.com"
+      "key": ":st",
+      "url": "http://studentportal.codeyoung.com"
     },
     {
       "key": ":yt",
@@ -25,16 +25,8 @@
       "url": "http://github.com"
     },
     {
-      "key": ":ks",
-      "url": "http://kaskus.co.id"
-    },
-    {
-      "key": ":tp",
-      "url": "http://tokopedia.com"
-    },
-    {
-      "key": ":em",
-      "url": "http://gmail.com"
+      "key": ":re",
+      "url": "http://reddit.com"
     }
   ]
 }
